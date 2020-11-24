@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16611
   title: ཐུབ་པའི་གསུང་གི་སྙིང་པོར་གྱུར་པ་ཆེད་དུ་བརྗོད་པའི་ཚོམས་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།
-  volume: ''
+  volume:
+    c458a83f6cbc4a9c8ee2c376891c9b72:
+      image_group_id: I1KG16657
+      title: Volume 1 of thub pa'i gsung gi snying por gyur pa ched du brjod pa'i
+        tshoms zhes bya ba'i rnam par 'grel pa/
+      volume_number: 1
+      total_pages: 882
   author: ''
+ebook_metadata:
+  title: ཐུབ་པའི་གསུང་གི་སྙིང་པོར་གྱུར་པ་ཆེད་དུ་བརྗོད་པའི་ཚོམས་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།
+  author: ''
+  sku: P000492
+  cover: cover.jpg
+  layers:
+  - pagination
